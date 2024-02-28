@@ -1,4 +1,5 @@
 This project use data collected from youtube to answer the following questions:
+
 . Which sentiment words commonly used on youtube.
 . The top 10 common emojis used on youtube.
 . The most favorite contents showed on youtube.
@@ -7,6 +8,7 @@ This project use data collected from youtube to answer the following questions:
 . The correlation between the number of punctuation in the video title and the number of views.
 
 Below are the libraries were used in this project:
+
 . pandas: for data manipulation.
 . seaborn, plotly, matplotlib for data visualization
 . textblob: sentiment analysis
